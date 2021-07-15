@@ -1,6 +1,6 @@
 ### Heyo there! 👋
 
-I am *Param*. I am an engineer and investor. And I like to observe and talk to people.
+I am **Param**. I am an engineer and investor. And I like to observe and talk to people.
 
 
 - 🔭 I’m currently working with [Gojek] on solving Marketplace Supply Engineering & Product Problems.
@@ -9,9 +9,9 @@ I am *Param*. I am an engineer and investor. And I like to observe and talk to p
 
 - 🎵 *Fun Fact*: I love playing guitar and piano. I love travelling. And, I might have a Financial tip for you. 📈
 
-- 📫 How to reach me ? Shoot me a mail heyparamsingh@gmail.com or connect with me on [Instagram]/[Twitter]
+- 📫 How to reach me ? Shoot me a mail heyparamsingh@gmail.com or connect with me on [Instagram] / [Twitter]
 
-[Gojek]: gojek.io
-[Duolingo]: duolingo.com/profile/paramsingh96
-[Instagram]: instagram.com/paramsingh96
-[Twitter]: twitter.com/paramsingh96
+[Gojek]: https://www.gojek.io/
+[Duolingo]: https://duolingo.com/profile/paramsingh96
+[Instagram]: https://www.instagram.com/paramsingh96
+[Twitter]: https://www.twitter.com/paramsingh96
