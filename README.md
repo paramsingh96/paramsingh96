@@ -1,16 +1,13 @@
-### Hi there 👋
+### Heyo there! 👋
 
-<!--
-**paramsingh96/paramsingh96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Param. I am an engineer and investor. And I like to observe and talk to people.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working with Gojek on solving Marketplace Supply related Engineering & Product Problems.
+- 🌱 I’m currently learning new languages like German, Spanish & French, checkout my progress here at [Duolingo]!
+- 👯 I’m looking to collaborate on exciting work related to Ruby, Golang, Clojure, Postgres, Redis & AUTOMATION! 😁
+- 🎵 Fun Fact: I love playing guitar and piano. And I love travelling.
+
+- 📫 How to reach me ? Shoot me a mail heyparamsingh@gmail.com
+
+[Duolingo]: https://www.duolingo.com/profile/paramsingh96
