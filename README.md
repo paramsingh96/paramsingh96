@@ -3,7 +3,7 @@
 I am **Param**. I am an engineer and investor. And I like to observe and talk to people.
 
 
-- 🔭 I’m currently working with [Gojek] on solving Marketplace Supply Engineering & Product Problems.
+- 🔭 I’m currently working with [Gojek] on solving Marketplace Supply Product & Engineering Problems.
 - 🌱 I’m currently learning new languages like German, Spanish & French, checkout my progress here at [Duolingo]!
 - 👯 I’m looking to collaborate on exciting work related to `Ruby`, `Golang`, `Clojure`, `Postgres`, `Redis`. 😁
 
