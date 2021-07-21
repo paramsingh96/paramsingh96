@@ -5,7 +5,7 @@ I am **Param**. I am an engineer and investor. And I like to observe and talk to
 
 - 🔭 I’m currently working with [Gojek] on solving Marketplace Supply Product & Engineering Problems.
 - 🌱 I’m currently learning new languages like German, Spanish & French, checkout my progress here at [Duolingo]!
-- 👯 I’m looking to collaborate on exciting & useful work related to `Ruby`, `Golang`, `Clojure`, `Postgres`, `Redis`, `Dev/CLI tools`. 😁
+- 👯 I’m looking to collaborate on exciting, useful & meaningful work. Preferably in `Ruby`, `Golang`, `Clojure`, `Postgres`, `Redis`, `Dev/CLI tools`. 😁
 
 - 🎵 *Fun Fact*: I love playing guitar and piano. I love travelling. And, I might have a Financial tip for you. 📈
 
