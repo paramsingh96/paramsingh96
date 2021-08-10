@@ -1,7 +1,4 @@
 ### Heyo there! 👋
-[![Visits Badge](https://badges.pufler.dev/visits/paramsingh96/paramsingh96)](paramsingh96.github.io)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/paramsingh96)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/parampreet-singh-b13313a6/)
 
 
 I am **Param**. I am a Software Engineer from a small city, Alwar. I like to observe and talk to people.
@@ -14,6 +11,10 @@ I am **Param**. I am a Software Engineer from a small city, Alwar. I like to obs
 - 🎵 *Fun Fact*: I love playing guitar and piano. I love travelling. And, I might have a Financial tip for you. 📈
 
 - 📫 How to reach me ? Shoot me a mail heyparamsingh@gmail.com or connect with me on [Instagram] / [Twitter]
+
+[![Visits Badge](https://badges.pufler.dev/visits/paramsingh96/paramsingh96)](paramsingh96.github.io)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/paramsingh96)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/parampreet-singh-b13313a6/)
 
 [![Param's Github Stats](https://github-readme-stats.vercel.app/api?username=paramsingh96&show_icons=true&count_private=true)]()
 
