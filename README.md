@@ -1,4 +1,8 @@
 ### Heyo there! 👋
+[![Visits Badge](https://badges.pufler.dev/visits/paramsingh96/paramsingh96)](paramsingh96.github.io)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/paramsingh96)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/parampreet-singh-b13313a6/)
+
 
 I am **Param**. I am a Software Engineer from a small city, Alwar. I like to observe and talk to people.
 
