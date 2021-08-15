@@ -18,6 +18,7 @@ I am **Param**. I am a Software Engineer from a small city, Alwar. I like to obs
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=8A3AB9)](https://instagram.com/paramsingh96)
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=0000CD)](https://medium.com/@paramsingh96)
 [![Github Badge](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=FAFAFA)](https://github.com/paramsingh96)
+[![Strava Badge](https://img.shields.io/badge/Strava-Profile-informational?style=flat&logo=strava&logoColor=white&color=EA5E30)](https://www.strava.com/athletes/90606598)
 
 [![Param's Github Stats](https://github-readme-stats.vercel.app/api?username=paramsingh96&show_icons=true&count_private=true)]()
 
