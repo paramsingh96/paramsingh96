@@ -1,7 +1,7 @@
 ### Heyo there! 👋
 
 
-I am **Param**. I am a Software Engineer from a small city, Alwar. I like to observe and talk to people.
+I am **Param**. I am a Polyglot Software Engineer from a small city, Alwar, India. I like to observe and talk to people.
 
 
 - 🔭 I’m currently working with [Gojek] on solving Marketplace Supply Product & Engineering Problems.
