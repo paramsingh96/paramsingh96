@@ -21,10 +21,6 @@ I am **Param**, a Polyglot Software Engineer from a small city, Alwar. I like to
 
 [![Param's Github Stats](https://github-readme-stats.vercel.app/api?username=paramsingh96&show_icons=true&count_private=true)]()
 
-<!---
-### Show some  ❤️  by starring some of the repositories!
--->
-
 
 [Gojek]: https://www.gojek.io/
 [Duolingo]: https://duolingo.com/profile/paramsingh96
