@@ -5,7 +5,7 @@ I am **Param**, a Polyglot Software Engineer from a small city, Alwar. I like to
 
 - 🔭 I’m currently working with [Gojek] on solving Marketplace Supply Product & Engineering Problems.
 - 🌱 I’m currently learning new languages like German, Spanish & French, checkout my progress here at [Duolingo]!
-- 👯 I’m looking to collaborate on exciting, useful & meaningful Engineering work. Preferably in `Distributed Systems`, `Ruby`, `Golang`, `Clojure`, `React`, `Postgres`, `Redis`, `Dev/CLI tools` & related stuff. 😁
+- 👯 I’m looking to collaborate on exciting, useful & meaningful Engineering work. Preferably in `Functional Programming`, `Distributed Systems`, `Dev/CLI tools` & related stuff. 😁
 
 - 🎵 *Fun Fact*: I love playing guitar and piano. I love travelling.
 
