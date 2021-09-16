@@ -1,7 +1,7 @@
 ### Heyo there! 👋
 
 
-I am **Param**, a Polyglot Software Engineer from a small city, Alwar. I like observing things and talking to people & code.
+I am **Param**, a Polyglot Software Engineer from a small city, Alwar. I like observing things and talking to people & computer.
 
 - 🔭 I’m currently working with [Gojek] in solving Marketplace Supply Product & Engineering Problems.
 - 🌱 I’m currently learning new languages like German, Spanish & French, checkout my progress here at [Duolingo]!
