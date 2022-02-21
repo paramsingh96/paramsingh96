@@ -21,9 +21,6 @@ I am **Param**, a Polyglot Software Engineer from a small city, Alwar. I like ob
 
 [![Param's Github Stats](https://github-readme-stats.vercel.app/api?username=paramsingh96&show_icons=true&count_private=true)]()
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
-
 
 [Gojek]: https://www.gojek.io/
 [Duolingo]: https://duolingo.com/profile/paramsingh96
